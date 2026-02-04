@@ -8,9 +8,6 @@ redirect_from:
   - /publications.html
 ---
 
-Publications
-======
-
 - Kang, X., Ouyang, X., Liang, H., & Meng, C. (2025). Hausdorff correlation for interval-valued random objects. Statistics and Computing, 35(6), 207.
 - Huang, J., Kang, X., Huang, Q., Li, M., Meng, C., & Zhang, J. (2025). Efficient Approximation of Leverage Scores in Two-dimensional Autoregressive Models with Application to Image Anomaly Detection. Journal of Computational and Graphical Statistics, 1-12.
 - Kang, X., Li, M., Chen, X., Li, F., & Meng, C. (2023). A Hausdorff regression paradigm for interval privacy. IEEE Signal Processing Letters, 31, 146-150.
