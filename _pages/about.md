@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate （2021-2026） at the Institute of Statistics and Big Data, Renmin University of China, currently pursuing my PhD under the supervision of Dr. Meng Cheng. My undergraduate degree is in Statistics, earned at the School of Statistics, Renmin University of China.
+I am a PhD candidate （2021-2026） at the Institute of Statistics and Big Data, Renmin University of China, currently pursuing my PhD under the supervision of Dr. Meng Cheng. I received my Bachelor's degree in Statistics from Renmin University of China in 2021.
 
 My research interests include: large language models, expert models, multi-token prediction, and random objects.
 
