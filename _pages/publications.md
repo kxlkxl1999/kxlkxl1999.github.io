@@ -3,8 +3,6 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 layout: archive
-redirect_from: 
-  - /publications/
 ---
 
 - Kang, X., Ouyang, X., Liang, H., & Meng, C. (2025). Hausdorff correlation for interval-valued random objects. Statistics and Computing, 35(6), 207.
