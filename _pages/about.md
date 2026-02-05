@@ -15,7 +15,8 @@ Recent News
 ======
 
 - 2025.6 Internship as an AI Algorithm Engineer at Huawei Central Research Institute's Basic Large Model Lab
-- 2024.6 Internship at Huawei Hangzhou Optical Product Line, Huawei Spark Award (“难题揭榜”火花奖) Follow-up Project Collaboration
+- 2024.6 Internship at Huawei Hangzhou Optical Product Line, Huawei Spark Award Follow-up Project Collaboration; Completed with an excellent rating.
+- 2023.9 Core members of the Huawei Yangtze River Battle Phase III project, "Non-native Bayer image noise analysis and processing technology"; recipient of the Huawei Spark Award (“难题揭榜”火花奖).
 
 Contact
 ======
