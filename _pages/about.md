@@ -14,6 +14,7 @@ My research interests include: large language models, expert models, multi-token
 Recent News
 =====
 
+- 2026.5 Accepted by ICML 2026 _Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE_
 - 2025.6 Internship as an AI Algorithm Engineer at Huawei Central Research Institute's Basic Large Model Lab
 - 2024.6 Internship at Huawei Hangzhou Optical Product Line, Huawei Spark Award Follow-up Project Collaboration; Completed with an excellent rating.
 - 2023.9 Core members of the Huawei Yangtze River Battle Phase III project, "Non-native Bayer image noise analysis and processing technology"; recipient of the [Huawei Spark Award](https://kxlkxl1999.github.io/files/algorithm.pdf)(“难题揭榜”火花奖).
